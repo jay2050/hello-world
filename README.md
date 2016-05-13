@@ -1,3 +1,3 @@
 # hello-world
 Geting set.
-Hey pps i am jay and i like coding who ho.
+Hey pps i am jay and i like coding who-ho.
